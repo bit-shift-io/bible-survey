@@ -1,0 +1,1089 @@
+{
+	"books": [
+		{
+			"name": "Matthew"
+		},
+		{
+			"name": "Mark",
+			"sections": [
+				{
+					"reference": "1:1-1:8",
+					"tags": [
+						"sin",
+						"repent",
+						"baptize",
+						"forgive",
+						"worthy",
+						"Jordan River",
+						"Jesus",
+						"Holy Spirit",
+						"John the Baptist",
+						"wilderness",
+						"Son",
+						"God"
+					],
+					"summary": "Intro: The Good News about Jesus, the Messiah who is God. John prepared the way",
+					"notes": ""
+				},
+				{
+					"reference": "1:9-1:15",
+					"tags": [
+						"Jesus",
+						"baptize",
+						"John the Baptist",
+						"water",
+						"Holy Spirit",
+						"Son",
+						"joy",
+						"wilderness",
+						"Satan",
+						"40",
+						"angel",
+						"Good News",
+						"God",
+						"tempt",
+						"Kingdom of God",
+						"repent",
+						"sin",
+						"believe",
+						"heaven"
+					],
+					"summary": "Jesus baptism and temptation",
+					"notes": ""
+				},
+				{
+					"reference": "1:21-1:28",
+					"tags": [
+						"Jesus",
+						"Capernaum",
+						"Sabbath",
+						"teach",
+						"synagogue",
+						"authority",
+						"possessed",
+						"heal"
+					],
+					"summary": "Jesus teaching with authority casts out an evil spirit",
+					"notes": ""
+				},
+				{
+					"reference": "1:29-1:34",
+					"tags": [
+						"Jesus",
+						"James",
+						"John",
+						"Simon",
+						"Andrew",
+						"sick",
+						"heal",
+						"possessed",
+						"disease"
+					],
+					"summary": "Jesus heals a multitude from different kinds of afflictions",
+					"notes": ""
+				},
+				{
+					"reference": "1:35-1:39",
+					"tags": [
+						"Jesus",
+						"pray",
+						"preach",
+						"Jesus purpose",
+						"heal",
+						"possessed"
+					],
+					"summary": "Jesus preaches and heals demon possesed",
+					"notes": ""
+				},
+				{
+					"reference": "1:40-1:45",
+					"tags": [
+						"Jesus",
+						"leper",
+						"heal",
+						"will",
+						"testify"
+					],
+					"summary": "Jesus heals a leper - a public testomony to cleansing",
+					"notes": "healing and cleansing are related?"
+				},
+				{
+					"reference": "2:1-2:12",
+					"tags": [
+						"Jesus",
+						"preach",
+						"paralyzed",
+						"heal",
+						"faith",
+						"sin",
+						"forgive",
+						"authority"
+					],
+					"summary": "Jesus heals a paralyzed man and connects healing and forgiveness of sins",
+					"notes": "forgiveness and healing are related?"
+				},
+				{
+					"reference": "2:13-2:17",
+					"tags": [
+						"Jesus",
+						"teach",
+						"Levi",
+						"disciple",
+						"follow",
+						"sinner",
+						"sick",
+						"righteous"
+					],
+					"summary": "Jesus calls Levi and explains how He came for those who know they are sinners",
+					"notes": ""
+				},
+				{
+					"reference": "2:18-2:22",
+					"tags": [
+						"Jesus",
+						"fast",
+						"celebrate",
+						"groom"
+					],
+					"summary": "Jesus questioned about fasting",
+					"notes": "Jesus is the bridge groom. Old and new compared"
+				},
+				{
+					"reference": "2:23-2:28",
+					"tags": [
+						"Jesus",
+						"grain",
+						"eat",
+						"law",
+						"Sabbath"
+					],
+					"summary": "Jesus questioned about Sabbath laws",
+					"notes": "'Laws' kill, Jesus brings life - laws are a tool for man, not a master"
+				},
+				{
+					"reference": "3:1-3:6",
+					"tags": [
+						"Jesus",
+						"Sabbath",
+						"heal",
+						"law"
+					],
+					"summary": "Jesus heals on the Sabbath",
+					"notes": "'Laws' kill, Jesus brings life - laws are a tool for man, not a master"
+				},
+				{
+					"reference": "3:7-3:12",
+					"tags": [
+						"Jesus",
+						"miracle",
+						"heal",
+						"possessed",
+						"authority"
+					],
+					"summary": "Crowds follow Jesus being healed",
+					"notes": ""
+				},
+				{
+					"reference": "3:13-3:19",
+					"tags": [
+						"Jesus",
+						"call",
+						"appoint",
+						"join",
+						"preach",
+						"send",
+						"authority",
+						"heal"
+					],
+					"summary": "Jesus calls out His disciples who were to join Him and be sent out with authority to preach and heal",
+					"notes": "Jesus equips His followers with authority and power to preach and heal ands sends them out"
+				},
+				{
+					"reference": "3:20-3:30",
+					"tags": [
+						"Jesus",
+						"busy",
+						"Satan",
+						"accuse",
+						"Satan",
+						"demon",
+						"divide",
+						"power",
+						"truth",
+						"sin",
+						"forgive",
+						"blasphemy",
+						"Holy Spirit",
+						"eternal",
+						"consequence",
+						"family"
+					],
+					"summary": "Jesus accused of being possed by Satan - Jesus warns of the consequences of blaphemy",
+					"notes": "Here Jesus shows what blasphemy is and issues a severe warning"
+				},
+				{
+					"reference": "3:31-3:35",
+					"tags": [
+						"Jesus",
+						"family",
+						"obedient",
+						"will",
+						"God"
+					],
+					"summary": "Jesus true family",
+					"notes": "Is not biological, but spiritual"
+				},
+				{
+					"reference": "4:1-4:20",
+					"tags": [
+						"Jesus",
+						"teach",
+						"parable",
+						"seed",
+						"Kingdom of God",
+						"God's word",
+						"Satan",
+						"hear",
+						"root",
+						"joy",
+						"persecution",
+						"worry",
+						"fruit",
+						"desire",
+						"harvest"
+					],
+					"summary": "Parable of farmer scattering seed - comparing God's word and people's response",
+					"notes": ""
+				},
+				{
+					"reference": "4:21-4:25",
+					"tags": [
+						"Jesus",
+						"teach",
+						"lamp",
+						"light",
+						"shine",
+						"hide",
+						"open",
+						"secret",
+						"hear",
+						"listen",
+						"understand",
+						"receive"
+					],
+					"summary": "Parable of the lamp - all will be revealed",
+					"notes": "Jesus came to shine and be a light, to reveal"
+				},
+				{
+					"reference": "4:26-4:29",
+					"tags": [
+						"Jesus",
+						"teach",
+						"Kingdom of God",
+						"seed",
+						"grow",
+						"mystery",
+						"harvest",
+						"fruit"
+					],
+					"summary": "Parable of the growing seed - Kingdom growth happens mysteriously, fruit is the result",
+					"notes": ""
+				},
+				{
+					"reference": "4:30-4:34",
+					"tags": [
+						"Jesus",
+						"teach",
+						"Kingdom of God",
+						"grow",
+						"seed",
+						"protect"
+					],
+					"summary": "Parable of the mustard seed - Kingdom grows from a seed",
+					"notes": ""
+				},
+				{
+					"reference": "4:35-4:41",
+					"tags": [
+						"Jesus",
+						"storm",
+						"fear",
+						"faith",
+						"authority"
+					],
+					"summary": "Jesus calms the storm challenging the disciples in the area of fear and faith",
+					"notes": "Jesus shows his authority over nature. Faith and fear are opposites"
+				},
+				{
+					"reference": "5:1-5:20",
+					"tags": [
+						"Jesus",
+						"heal",
+						"possessed",
+						"chain",
+						"Legion",
+						"testify",
+						"mercy"
+					],
+					"summary": "Jesus casts a legion of demons out of a man",
+					"notes": "Healing and mercy are related"
+				},
+				{
+					"reference": "5:21-5:43",
+					"tags": [
+						"Jesus",
+						"heal",
+						"Jairus",
+						"bleed",
+						"power",
+						"faith",
+						"dead",
+						"sleep"
+					],
+					"summary": "Jesus heals Jirus' daughter and a bleeding woman",
+					"notes": "Jesus sees phyiscal death as sleep. Faith is a component of healing"
+				},
+				{
+					"reference": "6:1-6:6",
+					"tags": [
+						"Jesus",
+						"teach",
+						"wisdom",
+						"power",
+						"miracle",
+						"offence",
+						"unbelief",
+						"prophet",
+						"honor",
+						"sick",
+						"heal"
+					],
+					"summary": "People see Jesus power and miracles yet reject him",
+					"notes": "Unbelif hampers healing, but Jesus still healed"
+				},
+				{
+					"reference": "6:7-6:13",
+					"tags": [
+						"Jesus",
+						"teach",
+						"send",
+						"authority",
+						"heal",
+						"repent",
+						"sin",
+						"anointing",
+						"oil"
+					],
+					"summary": "Jesus sends out his disciples and gave them authority to preach and heal",
+					"notes": ""
+				},
+				{
+					"reference": "6:14-6:29",
+					"tags": [
+						"John the Baptist",
+						"prophet",
+						"miracle",
+						"raised from the dead",
+						"favor",
+						"marry",
+						"law",
+						"kill",
+						"regret"
+					],
+					"summary": "John the baptist beheaded",
+					"notes": ""
+				},
+				{
+					"reference": "6:30-6:44",
+					"tags": [
+						"Jesus",
+						"rest",
+						"compassion",
+						"shepherd",
+						"sheep",
+						"feed",
+						"food",
+						"money",
+						"bread",
+						"fish",
+						"distribute",
+						"5000"
+					],
+					"summary": "Jesus feeds 5000",
+					"notes": ""
+				},
+				{
+					"reference": "6:45-6:56",
+					"tags": [
+						"Jesus",
+						"pray",
+						"boat",
+						"water",
+						"terror",
+						"courage",
+						"miracle",
+						"touch",
+						"sick",
+						"heal"
+					],
+					"summary": "Jesus walks on the water then heals everyone who touches him",
+					"notes": ""
+				},
+				{
+					"reference": "7:1-7:23",
+					"tags": [
+						"Jesus",
+						"teach",
+						"law",
+						"clean",
+						"unclean",
+						"hypocrite",
+						"defile",
+						"heart",
+						"food",
+						"evil thought",
+						"sexual immorality",
+						"theft",
+						"murder",
+						"adultery",
+						"greed",
+						"wicked",
+						"deceit",
+						"lust",
+						"envy",
+						"slander",
+						"pride",
+						"fool",
+						"sin"
+					],
+					"summary": "Jesus rebukes the pharisees about food and inner purity",
+					"notes": ""
+				},
+				{
+					"reference": "7:24-7:30",
+					"tags": [
+						"Jesus",
+						"possessed",
+						"gentile",
+						"faith",
+						"persevere",
+						"heal"
+					],
+					"summary": "Gentile woman persists to receive healing for daughter",
+					"notes": ""
+				},
+				{
+					"reference": "7:31-7:37",
+					"tags": [
+						"Jesus",
+						"deaf",
+						"speech impediment",
+						"lay hands",
+						"spit",
+						"hear",
+						"speak",
+						"heal"
+					],
+					"summary": "Jesus heals a deaf man",
+					"notes": ""
+				},
+				{
+					"reference": "8:1-8:10",
+					"tags": [
+						"Jesus",
+						"feed",
+						"food",
+						"bread",
+						"miracle",
+						"4000",
+						"distribute"
+					],
+					"summary": "Jesus feeds 4000",
+					"notes": ""
+				},
+				{
+					"reference": "8:11-8:13",
+					"tags": [
+						"Jesus",
+						"demand",
+						"prove",
+						"authority",
+						"sign",
+						"miracle"
+					],
+					"summary": "Pharisees demand Jesus give them a miracle as a sign",
+					"notes": ""
+				},
+				{
+					"reference": "8:14-8:21",
+					"tags": [
+						"Jesus",
+						"food",
+						"yeast",
+						"warn",
+						"Pharisee",
+						"5000",
+						"4000", 
+						"understand",
+						"remember"
+					],
+					"summary": "Jesus warns the disciples about the Pharisees",
+					"notes": ""
+				},
+				{
+					"reference": "8:22-8:26",
+					"tags": [
+						"Jesus",
+						"blind",
+						"heal",
+						"spit",
+						"see",
+						"lay hands",
+						"touch"
+					],
+					"summary": "Jesus heals a blind man",
+					"notes": ""
+				},
+				{
+					"reference": "8:27-8:30",
+					"tags": [
+						"Jesus",
+						"identity",
+						"Messiah"
+					],
+					"summary": "Peter declares Jesus as the Messiah",
+					"notes": ""
+				},
+				{
+					"reference": "8:31-9:1",
+					"tags": [
+						"Jesus",
+						"Son of Man",
+						"suffer",
+						"reject",
+						"kill",
+						"3 days",
+						"rise from the dead",
+						"rebuke",
+						"Satan",
+						"view",
+						"follow",
+						"cross",
+						"life",
+						"save",
+						"worth",
+						"soul",
+						"Good News",
+						"lose",
+						"Kingdom of God",
+						"power"
+					],
+					"summary": "Jesus fortells his death and tells of the cost of being his follower",
+					"notes": ""
+				},
+				{
+					"reference": "9:2-9:13",
+					"tags": [
+						"Jesus",
+						"alone",
+						"transform",
+						"Moses",
+						"Elijah",
+						"Son",
+						"listen",
+						"Son of Man",
+						"rise from the dead",
+						"suffer",
+						"Scripture"
+					],
+					"summary": "Jesus transfiguration",
+					"notes": ""
+				},
+				{
+					"reference": "9:14-9:29",
+					"tags": [
+						"Jesus",
+						"heal",
+						"possessed",
+						"speak",
+						"violent",
+						"unbelief",
+						"belief",
+						"command",
+						"pray"
+					],
+					"summary": "Jesus heals a demon possessed boy",
+					"notes": ""
+				},
+				{
+					"reference": "9:30-9:32",
+					"tags": [
+						"Jesus",
+						"teach",
+						"betray",
+						"kill",
+						"3 days",
+						"rise from the dead"
+					],
+					"summary": "Jesus again fortells his death",
+					"notes": ""
+				},
+				{
+					"reference": "9:33-9:37",
+					"tags": [
+						"Jesus",
+						"argue",
+						"least",
+						"great",
+						"child",
+						"welcome",
+						"Father",
+						"sent"
+					],
+					"summary": "Wisdom on servanthood",
+					"notes": ""
+				},
+				{
+					"reference": "9:38-9:50",
+					"tags": [
+						"Jesus",
+						"name",
+						"miracle",
+						"Messiah",
+						"sin",
+						"Kingdom of God",
+						"hell",
+						"fire",
+						"test",
+						"eternal life",
+						"salt",
+						"peace",
+						"child"
+					],
+					"summary": "Teaching on using the name of Jesus and sin and hell",
+					"notes": ""
+				},
+				{
+					"reference": "10:1-10:12",
+					"tags": [
+						"Jesus",
+						"divorce",
+						"marriage",
+						"hard heart",
+						"creation",
+						"male",
+						"female",
+						"unite",
+						"adultery"
+					],
+					"summary": "Jesus teaching on divorce",
+					"notes": ""
+				},
+				{
+					"reference": "10:13-10:16",
+					"tags": [
+						"Jesus",
+						"child",
+						"Kingdom of God",
+						"truth",
+						"receive"
+					],
+					"summary": "Receive like the children",
+					"notes": ""
+				},
+				{
+					"reference": "10:17-10:31",
+					"tags": [
+						"Jesus",
+						"eternal life",
+						"good",
+						"adultery",
+						"steal",
+						"false testimoney",
+						"cheat",
+						"honor",
+						"commandments",
+						"sell",
+						"give",
+						"money",
+						"treasure",
+						"heaven",
+						"follow",
+						"Kingdom of God",
+						"rich",
+						"impossible",
+						"possible",
+						"Good News",
+						"receive",
+						"persecution",
+						"least",
+						"great"
+					],
+					"summary": "Jesus challenges the rich man",
+					"notes": ""
+				},
+				{
+					"reference": "10:32-10:34",
+					"tags": [
+						"Jesus",
+						"Son of Man",
+						"betray",
+						"death",
+						"mock",
+						"spit",
+						"kill",
+						"3 days",
+						"rise from the dead"
+					],
+					"summary": "Jesus again fortells his death and resurrection",
+					"notes": ""
+				},
+				{
+					"reference": "10:35-10:45",
+					"tags": [
+						"Jesus",
+						"favor",
+						"suffer",
+						"baptise",
+						"right",
+						"chosen",
+						"serve",
+						"great",
+						"least",
+						"world",
+						"authority",
+						"lead",
+						"slave",
+						"give",
+						"life",
+						"ransom"
+					],
+					"summary": "Jesus teaches about serving others",
+					"notes": ""
+				},
+				{
+					"reference": "10:46-10:52",
+					"tags": [
+						"Jesus",
+						"blind",
+						"Bartimaeus",
+						"Son of David",
+						"mercy",
+						"see",
+						"faith",
+						"heal"
+					],
+					"summary": "Jesus heals Bartimaeus",
+					"notes": ""
+				},
+				{
+					"reference": "11:1-11:11",
+					"tags": [
+						"Jesus",
+						"donkey",
+						"borrow",
+						"temple"
+					],
+					"summary": "Jesus triumphant entry to Jerusalem",
+					"notes": ""
+				},
+				{
+					"reference": "11:12-11:14",
+					"tags": [
+						"Jesus",
+						"fig",
+						"curse",
+						"fruit",
+						"eat",
+						"food"
+					],
+					"summary": "Jesus curses the fig tree",
+					"notes": "Is Jesus refering to Jerusalem here? Sandwiched between Jerusalem"
+				},
+				{
+					"reference": "11:15-11:26",
+					"tags": [
+						"Jesus",
+						"temple",
+						"Scripture",
+						"prayer",
+						"nation",
+						"theive",
+						"steal",
+						"faith",
+						"pray",
+						"belief",
+						"reveive",
+						"forgive",
+						"Father",
+						"heaven",
+						"sin"
+					],
+					"summary": "Jesus clears the temple and teaching on prayer",
+					"notes": ""
+				},
+				{
+					"reference": "11:27-11:33",
+					"tags": [
+						"Jesus",
+						"authority",
+						"demand",
+						"baptise",
+						"heaven",
+						"prophet"
+					],
+					"summary": "Jesus authority challenged",
+					"notes": ""
+				},
+				{
+					"reference": "12:1-12:12",
+					"tags": [
+						"Jesus",
+						"parable",
+						"vineyard",
+						"wicked",
+						"evil",
+						"Scripture"
+					],
+					"summary": "Jesus parable of the evil farmers",
+					"notes": ""
+				},
+				{
+					"reference": "12:13-12:17",
+					"tags": [
+						"Jesus",
+						"tax",
+						"money",
+						"ownership"
+					],
+					"summary": "Jesus teaching on taxes",
+					"notes": ""
+				},
+				{
+					"reference": "12:18-12:27",
+					"tags": [
+						"Jesus",
+						"resurrection",
+						"rise from the dead",
+						"law",
+						"marry",
+						"power"
+					],
+					"summary": "Jesus teaching on the resurrection",
+					"notes": ""
+				},
+				{
+					"reference": "12:28-12:34",
+					"tags": [
+						"Jesus",
+						"commandments",
+						"love",
+						"heart",
+						"neighbor",
+						"Kingdom of God"
+					],
+					"summary": "Jesus teaching on the most important commandment",
+					"notes": ""
+				},
+				{
+					"reference": "12:35-12:40",
+					"tags": [
+						"Jesus",
+						"Messiah",
+						"Son of David",
+						"pretend",
+						"pious"
+					],
+					"summary": "Jesus the Son of David, but David's Lord",
+					"notes": ""
+				},
+				{
+					"reference": "12:41-12:44",
+					"tags": [
+						"Jesus",
+						"money",
+						"rich",
+						"poor",
+						"give"
+					],
+					"summary": "The poor widow giving",
+					"notes": ""
+				},
+				{
+					"reference": "13:1-13:37",
+					"tags": [
+						"Jesus",
+						"temple",
+						"false Messiah",
+						"famine",
+						"war",
+						"worry",
+						"Holy Spirit",
+						"betray",
+						"Son of Man",
+						"power",
+						"glory",
+						"fig",
+						"Father",
+						"watch"
+					],
+					"summary": "Jesus speaks on the future and end times",
+					"notes": ""
+				},
+				{
+					"reference": "14:1-14:9",
+					"tags": [
+						"Jesus",
+						"anoint",
+						"money",
+						"poor",
+						"burial",
+						"Good News"
+					],
+					"summary": "Jesus anointed",
+					"notes": ""
+				},
+				{
+					"reference": "14:10-14:11",
+					"tags": [
+						"Jesus",
+						"betray"
+					],
+					"summary": "Jesus betrayed",
+					"notes": ""
+				},
+				{
+					"reference": "14:12-14:26",
+					"tags": [
+						"Jesus",
+						"betray",
+						"communion",
+						"body",
+						"blood",
+						"covenant",
+						"Kingdom of God"
+					],
+					"summary": "Jesus last supper",
+					"notes": ""
+				},
+				{
+					"reference": "14:27-14:31",
+					"tags": [
+						"Jesus",
+						"deny",
+						"Scripture",
+						"raised from the dead"
+					],
+					"summary": "Jesus fortells Peter's denial",
+					"notes": ""
+				},
+				{
+					"reference": "14:32-14:42",
+					"tags": [
+						"Jesus",
+						"pray",
+						"suffer",
+						"watch",
+                        "Son of Man"
+					],
+					"summary": "Jesus prays in Gethsemane",
+					"notes": ""
+				},
+				{
+					"reference": "14:43-14:52",
+					"tags": [
+						"Jesus",
+						"arrest",
+						"Scripture"
+					],
+					"summary": "Jesus arrested",
+					"notes": ""
+				},
+				{
+					"reference": "14:53-14:65",
+					"tags": [
+						"Jesus",
+						"I AM",
+						"Son of Man",
+						"power"
+					],
+					"summary": "Jesus before the Council",
+					"notes": ""
+				},
+				{
+					"reference": "14:66-14:72",
+					"tags": [
+                        "deny"
+					],
+					"summary": "Peter denies Jesus",
+					"notes": ""
+				},
+				{
+					"reference": "15:1-15:15",
+					"tags": [
+                        "Jesus",
+                        "king of the Jews",
+                        "trial",
+                        "crucify"
+					],
+					"summary": "Jesus' trial before Pilate",
+					"notes": ""
+				},
+				{
+					"reference": "15:6-15:20",
+					"tags": [
+                        "Jesus",
+                        "mock"
+					],
+					"summary": "Jesus mocked by soldiers",
+					"notes": ""
+				},
+				{
+					"reference": "15:21-15:32",
+					"tags": [
+                        "Jesus",
+                        "crucify",
+                        "cross",
+                        "temple"
+					],
+					"summary": "Jesus crucified",
+					"notes": ""
+				},
+				{
+					"reference": "15:33-15:41",
+					"tags": [
+                        "Jesus"
+					],
+					"summary": "Jesus death",
+					"notes": ""
+				},
+				{
+					"reference": "15:42-15:47",
+					"tags": [
+                        "Jesus"
+					],
+					"summary": "Jesus burial",
+					"notes": ""
+				},
+				{
+					"reference": "16:1-16:20",
+					"tags": [
+                        "Jesus",
+                        "resurrection",
+                        "rise from the dead",
+                        "go",
+                        "send",
+                        "preach",
+                        "Good News",
+                        "baptise",
+                        "belief",
+                        "miracle",
+                        "sign"
+					],
+					"summary": "Jesus resurrection",
+					"notes": ""
+				}
+			]
+		}
+	]
+}
